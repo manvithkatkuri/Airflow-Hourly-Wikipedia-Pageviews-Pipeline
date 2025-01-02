@@ -5,7 +5,7 @@ This project demonstrates the use of **Apache Airflow** to orchestrate the extra
 ---
 ## DAG
 
-![DAG](Dag.png)
+![DAG](DAG.png)
 
 
 ## Project Overview
@@ -34,6 +34,7 @@ This project demonstrates the use of **Apache Airflow** to orchestrate the extra
 4. **Write Data to PostgreSQL**
    - A **PostgresOperator** executes the SQL file to store the extracted data in a **PostgreSQL** table.
 
+![CMD](cmd.png)
 ---
 
 ## Technologies Used
