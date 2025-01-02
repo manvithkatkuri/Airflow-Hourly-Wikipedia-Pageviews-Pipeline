@@ -3,6 +3,10 @@
 This project demonstrates the use of **Apache Airflow** to orchestrate the extraction, processing, and storage of hourly pageview data from Wikipedia. The pipeline fetches hourly pageview data, processes it to extract views for specific pages, and stores the results in a **PostgreSQL** database. All components are orchestrated and executed seamlessly using **Docker**.
 
 ---
+## DAG
+
+![DAG](Dag.png)
+
 
 ## Project Overview
 
