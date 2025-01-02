@@ -1,4 +1,4 @@
-# Airflow-Hourly Wikipedia Pageviews Pipeline with Batch Streaming
+# Orchestrating Hourly Wikipedia Pageviews with Batch Processing(Airflow)
 
 This project demonstrates the use of **Apache Airflow** to orchestrate the extraction, processing, and storage of hourly pageview data from Wikipedia. The pipeline utilizes **batch streaming** to fetch hourly pageview data, process it to extract views for specific pages, and store the results in a **PostgreSQL** database. All components are orchestrated and executed seamlessly using **Docker**.
 
